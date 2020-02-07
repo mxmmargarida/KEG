@@ -1,0 +1,60 @@
+30 & 1 & 32 & 8 & 37 & 81.90 & 3 & MB QC & 0 & AB SK NS NB PE NL & 2.68 & 0.07\\ 
+ & 2 & 62 & 9 & 1980 & 58.20 & 2 & BCYT  & 0 & BCYT  AB SK MB QC NS NB PE NL & 32.77 & 0.37\\ 
+ & 3 & 30 & 8 & 7 & 100.00 & 4 & BCYT  & 0 & NS NB PE & 1.60 & 0.06\\ 
+ & 4 & 40 & 7 & 216 & 3.40 & 2 & AB & 0 & SK MB ON QC NS NB PE NL & 3.05 & 0.03\\ 
+ & 5 & 40 & 7 & 1140 & 48.20 & 4 & AB & 0 & SK MB NS NB PE NL & 3.74 & 0.07\\ 
+ & 6 & 20 & 5 & 28 & 35.10 & 2 & MB ON & 0 & BCYT  AB SK QC NS NB PE NL & 0.37 & 0.03\\ 
+ & 7 & 31 & 6 & 395 & 42.00 & 2 & BCYT  AB SK ON & 0 & MB QC NS NB PE NL & 1.57 & 0.06\\ 
+ & 8 & 29 & 8 & 2 & 50.10 & 2 & BCYT  MB ON QC & 0 & NS NB PE NL & 0.95 & 0.04\\ 
+ & 9 & 51 & 10 & 118 & 78.90 & 3 & BCYT  & 0 & SK MB ON NS NB PE NL & 33.22 & 0.06\\ 
+ & 10 & 16 & 3 & 75 & 95.30 & 2 & BCYT  ON & 0 & AB SK MB ON NS NB PE NL & 0.19 & 0.05\\ 
+30 & 1 & 1 & 1 & 1 & 100.00 & 1 & SK ON & 0 & BCYT  AB MB QC NS NB PE NL & 0.21 & 0.03\\ 
+ & 2 & 8 & 4 & 10 & 100.00 & 3 & BCYT  ON & 0 & MB NS NB PE NL & 0.17 & 0.04\\ 
+ & 3 & 9 & 3 & 4 & 100.00 & 1 & BCYT  AB MB ON QC NS NB & 0 & BCYT  SK ON QC NS PE NL & 0.31 & 0.04\\ 
+ & 4 & 19 & 5 & 4 & 100.00 & 2 & ON & 0 & SK MB QC NS NB PE & 0.20 & 0.04\\ 
+ & 5 & 25 & 5 & 135 & 18.50 & 3 & QC & 0 & BCYT  SK MB ON NS NB PE NL & 0.35 & 0.03\\ 
+ & 6 & 3 & 1 & 3 & 100.00 & 1 & BCYT  MB ON & 0 & AB SK MB ON QC NS NB PE NL & 0.07 & 0.04\\ 
+ & 7 & 8 & 3 & 6 & 83.90 & 2 & ON & 0 & AB SK MB NS NB PE NL & 0.07 & 0.03\\ 
+ & 8 & 4 & 2 & 3 & 33.20 & 1 & BCYT  ON & 0 & AB SK MB QC NS NB PE NL & 0.08 & 0.02\\ 
+ & 9 & 1 & 1 & 1 & 100.00 & 0 & BCYT  AB SK MB ON QC NS NB PE NL & 0 & BCYT  AB SK MB ON QC NS NB PE NL & 0.28 & 0.03\\ 
+ & 10 & 3 & 2 & 2 & 100.00 & 1 & BCYT  ON & 0 & AB SK MB QC NS NB PE NL & 0.07 & 0.04\\ 
+40 & 1 & 63 & 10 & 18720 & 47.60 & 6 & BCYT  & 0 & NS NB PE NL & 258.07 & 0.15\\ 
+ & 2 & 12 & 6 & 2 & 100.00 & 3 & ON & 0 & SK MB QC NS PE NL & 0.23 & 0.04\\ 
+ & 3 & 31 & 6 & 991 & 22.50 & 3 & BCYT  QC & 0 & AB SK MB ON QC NS PE NL & 1.94 & 0.05\\ 
+ & 4 & 61 & 10 & 1512 & 77.40 & 4 & BCYT  & 0 & AB SK ON PE NL & 279.68 & 2.06\\ 
+ & 5 & 56 & 13 & 1736 & 68.90 & 6 & ON & 0 & SK QC NS PE NL & 613.21 & 0.11\\ 
+ & 6 & 24 & 4 & 111 & 10.20 & 2 & BCYT  ON & 0 & AB SK MB ON QC NS NB PE NL & 0.24 & 0.02\\ 
+ & 7 & 76 & 10 & 177270 & 29.20 & 4 & BCYT  AB & 0 & SK MB ON QC NS NB PE NL & 342.42 & 0.20\\ 
+ & 8 & 11 & 3 & 14 & 100.00 & 2 & AB ON & 0 & BCYT  SK MB ON NS NB PE NL & 0.17 & 0.04\\ 
+ & 9 & 74 & 10 & 81472 & 26.00 & 3 & AB ON & 0 & BCYT  SK MB QC NS NB PE NL & 1032.54 & 0.33\\ 
+ & 10 & 50 & 10 & 1470 & 1.00 & 2 & BCYT  ON & 0 & AB SK MB QC NS NB PE NL & 70.88 & 0.03\\ 
+40 & 1 & 11 & 5 & 5 & 39.90 & 1 & MB ON & 0 & BCYT  AB SK QC NS NB PE NL & 0.09 & 0.03\\ 
+ & 2 & 6 & 3 & 3 & 69.50 & 2 & BCYT  & 0 & AB MB QC NS NB PE NL & 0.09 & 0.04\\ 
+ & 3 & 35 & 6 & 208 & 67.70 & 3 & ON & 0 & BCYT  AB SK PE NL & 1.32 & 0.15\\ 
+ & 4 & 0 & 6 &   &  &  & &  &  & tl & \\ 
+ & 5 & 20 & 4 & 10 & 30.50 & 2 & BCYT  & 0 & SK ON QC NS NB PE NL & 0.13 & 0.03\\ 
+ & 6 & 34 & 6 & 356 & 78.80 & 3 & BCYT  ON & 0 & AB SK QC NS NB PE NL & 1.15 & 0.07\\ 
+ & 7 & 3 & 1 & 3 & 35.30 & 0 & BCYT  AB SK MB ON QC NS NB PE NL & 0 & BCYT  AB SK MB ON QC NS NB PE NL & 0.16 & 0.03\\ 
+ & 8 & 35 & 7 & 1108 & 18.00 & 2 & BCYT  ON & 0 & AB MB QC NB PE NL & 1.63 & 0.05\\ 
+ & 9 & 2 & 1 & 2 & 47.10 & 0 & BCYT  AB SK MB ON QC NS NB PE NL & 0 & BCYT  AB SK MB ON QC NS NB PE NL & 0.43 & 0.02\\ 
+ & 10 & 31 & 8 & 13 & 100.00 & 4 & ON & 0 & SK NS NB PE NL & 1.16 & 0.07\\ 
+50 & 1 & 40 & 6 & 112 & 72.90 & 4 & BCYT  & 0 & SK NS NB PE NL & 1.83 & 0.10\\ 
+ & 2 & 128 & 15 &   &  &  & &  &  & tl & \\ 
+ & 3 & 90 & 14 &   &  &  & &  &  & tl & \\ 
+ & 4 & 136 & 15 &   &  &  & &  &  & tl & \\ 
+ & 5 & 116 & 16 &   &  &  & &  &  & tl & \\ 
+ & 6 & 85 & 17 &   &  &  & &  &  & tl & \\ 
+ & 7 & 99 & 10 & 303240  &  &  & &  &  & 4204.52 & tl\\ 
+ & 8 & 99 & 16 &   &  &  & &  &  & tl & \\ 
+ & 9 & 74 & 12 & 872 & 66.70 & 4 & AB QC & 0 & MB NB PE NL & 1546.51 & 0.29\\ 
+ & 10 & 89 & 14 &   &  &  & &  &  & tl & \\ 
+50 & 1 & 8 & 3 & 2 & 100.00 & 1 & AB SK & 0 & BCYT  MB ON QC NS NB PE NL & 0.12 & 0.04\\ 
+ & 2 & 23 & 5 & 30 & 100.00 & 2 & BCYT  QC & 0 & AB SK MB NS NB PE NL & 0.30 & 0.06\\ 
+ & 3 & 24 & 4 & 287 & 26.40 & 2 & BCYT  & 0 & AB SK MB ON QC NS NB PE NL & 0.32 & 0.05\\ 
+ & 4 & 29 & 7 & 38 & 73.40 & 3 & ON & 0 & AB SK QC NB PE NL & 1.31 & 0.05\\ 
+ & 5 & 23 & 6 & 52 & 57.30 & 2 & BCYT  QC & 0 & AB SK MB ON NS PE NL & 0.39 & 0.05\\ 
+ & 6 & 14 & 6 & 24 & 26.60 & 3 & AB & 0 & BCYT  SK MB NS NB PE NL & 0.16 & 0.04\\ 
+ & 7 & 42 & 9 & 16 & 24.70 & 2 & BCYT  ON QC & 0 & MB NS NB PE NL & 9.36 & 0.04\\ 
+ & 8 & 19 & 5 & 6 & 50.30 & 1 & BCYT  MB ON QC NS NB & 0 & AB SK PE NL & 0.16 & 0.03\\ 
+ & 9 & 1 & 1 & 1 & 100.00 & 1 & BCYT  ON & 0 & AB SK MB QC NS NB PE NL & 0.22 & 0.04\\ 
+ & 10 & 51 & 9 & 6736 & 79.00 & 6 & ON & 0 & SK QC NS NB PE NL & 64.80 & 0.20\\ 
