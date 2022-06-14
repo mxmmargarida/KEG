@@ -2,6 +2,9 @@
 
 This is the code necessary for the experiments presented in
 
+*M. Carvalho, A. Lodi, "A theoretical and computational equilibria analysis of a multi-player kidney exchange program", 2022.European Journal of Operational Research*
+https://www.sciencedirect.com/science/article/pii/S0377221722004039#sec0012
+
 *M. Carvalho, A. Lodi, "Game theoretical analysis of Kidney Exchange Programs", 2020.*
 https://arxiv.org/abs/1911.09207
 
